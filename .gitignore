@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+#Upload directory
+uploads/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# VS Code directory
+.vscode/
+
+# Tailwind CSS
+tailwind.config.js
